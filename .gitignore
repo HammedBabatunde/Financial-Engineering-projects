@@ -1,0 +1,10 @@
+# Ignore CSV files to prevent leaking financial data
+*.csv
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
