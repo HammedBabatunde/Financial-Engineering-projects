@@ -1,4 +1,4 @@
-# 📈 Quantitative Portfolio Analysis & Optimization on the NGX
+# Quantitative Portfolio Analysis & Optimization on the NGX
 
 A comprehensive quantitative portfolio management and optimization project for equities listed on the **Nigerian Stock Exchange (NGX)** using historical market data fetched live via the [`afrimarket`](https://github.com/ambroseikpele/afrimarket) Python library.
 
